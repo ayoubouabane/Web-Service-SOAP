@@ -3,6 +3,9 @@
 <p>Capture pour tester le Web Service est-ce qu'il est déployé ou pas :</p>
 <img src="Capture/JWS.PNG">
 <hr/>
+<p>Capture pour visualiser le WSDL :</p>
+<img src="Capture/WSDL.PNG">
+<hr/>
 <p>Capture pour tester la methode conversion Euro to DH :</p>
 <img src="Capture/MethodConversion.PNG">
 <hr/>
